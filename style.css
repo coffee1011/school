@@ -1,0 +1,36 @@
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+body {
+    font-size: 14px;
+    background-color: papayawhip;
+}
+
+.travel_maindiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.travel_maindiv img {
+    width: 60%;
+}
+.travel_maindiv hr { 
+width: 30px;
+}
+
+.achivements { 
+font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.contact_1 h2 {
+    display: inline-block;
+}
